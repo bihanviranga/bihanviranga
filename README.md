@@ -1,4 +1,4 @@
 ### Hello! 👋
 
-[![Bihan's github stats](https://github-readme-stats.vercel.app/api?username=bihanviranga)](https://github.com/anuraghazra/github-readme-stats)
+[![Bihan's github stats](https://github-readme-stats.vercel.app/api?username=bihanviranga&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
