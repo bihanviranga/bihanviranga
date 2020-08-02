@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/bihanviranga">
   <img align="left" alt="Bihan on Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br>
+
 - 🌱 Currently learning ASP.net Core
 
 [![Bihan's github stats](https://github-readme-stats.vercel.app/api?username=bihanviranga&hide=stars,contribs&count_private=true&show_icons=true&title_color=000&icon_color=000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
