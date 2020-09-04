@@ -22,8 +22,9 @@
 <a href="https://github.com/topics/python"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 <a href="https://github.com/topics/svelte"><img height="30" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png"></a>
 
-
+<!--
 [![Bihan's github stats](https://github-readme-stats.vercel.app/api?username=bihanviranga&hide=stars,contribs&count_private=true&show_icons=true&title_color=000&icon_color=000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bihanviranga&layout=compact&hide_title=true&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
