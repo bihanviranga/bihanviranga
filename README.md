@@ -1,6 +1,9 @@
-<h3>Hello!</h3><a href="https://twitter.com/bviranga">
-I'm a programmer. Looking to contribute to open source projects. I love working with Python and C.
-
+<h3>Hello!</h3>
+I'm a programmer. Looking to contribute to open source projects. I love working with Python and C. He/His.
+- Currently learning machine learning.
+- See what I'm reading [here!](https://www.goodreads.com/user/show/59632437-bihan-viranga)
+- Ask me about Middle Earth!
+<br>
 <a href="https://github.com/topics/linux"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a>
 <a href="https://github.com/topics/vim"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></a>
 <a href="https://github.com/topics/archlinux"><img height="30" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png"></a>
@@ -13,6 +16,7 @@ I'm a programmer. Looking to contribute to open source projects. I love working 
 <!--
 [![Bihan's github stats](https://github-readme-stats.vercel.app/api?username=bihanviranga&hide=stars,contribs&count_private=true&show_icons=true&title_color=000&icon_color=000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bihanviranga&layout=compact&hide_title=true&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
