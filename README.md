@@ -18,7 +18,9 @@ I'm a programmer. Looking to contribute to open source projects. I love working 
 -->
 
 
+<!--
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bihanviranga&layout=compact&hide_title=true&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![twitter](https://img.shields.io/badge/-Twitter-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/bviranga)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/bihanviranga)
