@@ -24,5 +24,7 @@ I'm a programmer. Looking to contribute to open source projects. I love working 
 
 [![twitter](https://img.shields.io/badge/-Twitter-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/bviranga)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/bihanviranga)
+[![mastodon](https://img.shields.io/badge/-Mastodon-313131?style=flat-square&labelColor=313131&logo=Mastodon&logoColor=white&color=313131)](https://hostux.social/@bv)
+
 
 <img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png" alt="I planted a tree this Hacktoberfest!" height="100"/>
