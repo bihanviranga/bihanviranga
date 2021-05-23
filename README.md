@@ -1,7 +1,7 @@
 <h3>Hello!</h3>
 I'm a programmer. Looking to contribute to open source projects. I love working with Python and C. He/His.
 
-- Currently studying machine learning.
+- Currently studying C++
 - See what I'm reading [here!](https://www.goodreads.com/user/show/59632437-bihan-viranga)
 - Ask me about Middle Earth!
 <br>
