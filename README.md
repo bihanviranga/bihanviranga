@@ -1,5 +1,5 @@
-![cat!](https://user-images.githubusercontent.com/16241612/131959897-d2e48bb3-7b4a-4ef6-b643-a3eb6bb1f1c5.png)
-
+<!-- ![cat!](https://user-images.githubusercontent.com/16241612/131959897-d2e48bb3-7b4a-4ef6-b643-a3eb6bb1f1c5.png) -->
+![cat!](cat.gif)
 
 <p align="center">
   <a href="https://twitter.com/bviranga" target="_blank">
