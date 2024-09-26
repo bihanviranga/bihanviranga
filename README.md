@@ -3,20 +3,16 @@
   <img align="center" alt="cat!" src="cat.gif" width="100" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/bviranga" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131" alt="twitter" />
-  </a>
-  <a href="https://www.goodreads.com/user/show/59632437-bihan-viranga">
-    <img src="https://img.shields.io/badge/-Goodreads-313131?style=flat-square&labelColor=313131&logo=Goodreads&logoColor=white&color=313131" alt="goodreads" />
-  </a>
-  <a href="https://www.linkedin.com/in/bihanviranga">
-    <img src="https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131" alt="linkedin" />
-  </a>
-  <a href="https://hostux.social/@bv">
-    <img src="https://img.shields.io/badge/-Mastodon-313131?style=flat-square&labelColor=313131&logo=Mastodon&logoColor=white&color=313131" alt="mastodon" />
-  </a>
-</p>
+<div align="center">
+<a href="https://x.com/bviranga" target="_blank"><img src="https://img.shields.io/badge/-Twitter-313131?style=flat-square&labelColor=313131&logo=x&logoColor=white&color=313131" alt="twitter" /></a>
+&nbsp;
+<a href="https://www.goodreads.com/user/show/59632437-bihan-viranga"><img src="https://img.shields.io/badge/-Goodreads-313131?style=flat-square&labelColor=313131&logo=Goodreads&logoColor=white&color=313131" alt="goodreads" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bihanviranga"><img src="https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131" alt="linkedin" /></a>
+&nbsp;
+<a href="https://hostux.social/@bv"><img src="https://img.shields.io/badge/-Mastodon-313131?style=flat-square&labelColor=313131&logo=Mastodon&logoColor=white&color=313131" alt="mastodon" /></a>
+&nbsp;
+</div>
 
 <!--
 <p align="center">
